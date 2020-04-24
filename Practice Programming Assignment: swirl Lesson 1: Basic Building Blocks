@@ -339,7 +339,7 @@ Selection: 2
 > my_div
 [1] 3.478505 3.181981 2.146460
 
-| You're the best!
+
 
   |=====================================================                     |  71%
 | When given two vectors of the same length, R simply performs the specified
